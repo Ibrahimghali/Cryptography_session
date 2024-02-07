@@ -49,6 +49,3 @@ print("Encrypted data = ", c)
 m = pow(c, d)
 m = math.fmod(m, n)
 print("Original Message Sent = ", m)
-
-
-# This code is contributed by Pranay Arora.
